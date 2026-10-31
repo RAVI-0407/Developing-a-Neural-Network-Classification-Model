@@ -172,19 +172,21 @@ with torch.no_grad():
 
 ### Dataset Information
 
-<img width="1407" height="299" alt="image" src="https://github.com/user-attachments/assets/7e809f73-954c-413f-90d2-850b94a7d334" />
+<img width="1416" height="477" alt="image" src="https://github.com/user-attachments/assets/5678b766-75a7-416a-b887-b498501b2bad" />
+
 
 ### OUTPUT
 
-<img width="1049" height="200" alt="image" src="https://github.com/user-attachments/assets/df3d09a7-9326-4dea-8aa1-a8ef18b66198" />
-
-
+<img width="1221" height="483" alt="image" src="https://github.com/user-attachments/assets/d8816e6c-9828-41db-92ed-98738845f82d" />
 
 ## Confusion Matrix
-<img width="809" height="681" alt="image" src="https://github.com/user-attachments/assets/c798f620-5043-4622-b7ad-21941eb7799f" />
+
+<img width="683" height="568" alt="image" src="https://github.com/user-attachments/assets/c54c638a-13dd-4058-b9e9-c912ca6e61ef" />
+
 
 ## Classification Report
-<img width="1435" height="1096" alt="IMG 1" src="https://github.com/user-attachments/assets/67177388-4028-46e5-9b82-dd271c1922d1" />
+
+<img width="632" height="421" alt="image" src="https://github.com/user-attachments/assets/1a973b62-a7bc-4044-9283-a3d81b094a6a" />
 
 
 ## RESULT
