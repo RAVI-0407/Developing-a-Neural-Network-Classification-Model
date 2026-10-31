@@ -181,7 +181,7 @@ with torch.no_grad():
 
 ## Confusion Matrix
 
-<img width="683" height="568" alt="image" src="https://github.com/user-attachments/assets/c54c638a-13dd-4058-b9e9-c912ca6e61ef" />
+<img width="692" height="581" alt="image" src="https://github.com/user-attachments/assets/ddcea9e4-63b9-48c0-80af-a74c0f728f51" />
 
 
 ## Classification Report
